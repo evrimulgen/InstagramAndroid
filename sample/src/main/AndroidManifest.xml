@@ -22,15 +22,15 @@
 
         <meta-data
             android:name="com.emreeran.instagramclient.CLIENT_ID"
-            android:value="7dbf6257a9b440f08b5dc19ef2165a75"/>
+            android:value="CLIENT_ID"/>
 
         <meta-data
             android:name="com.emreeran.instagramclient.CLIENT_SECRET"
-            android:value="4ed51c5e762945f1ba1e8a5cef3547e2"/>
+            android:value="CLIENT_SECRET"/>
 
         <meta-data
             android:name="com.emreeran.instagramclient.REDIRECT_URL"
-            android:value="http://studionord.org/client/hillsidegram"/>
+            android:value="REDIRECT_URL"/>
     </application>
 
 </manifest>
